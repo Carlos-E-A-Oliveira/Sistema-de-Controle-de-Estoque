@@ -26,13 +26,13 @@ Um sistema simples de controle de estoque desenvolvido em C# com funcionalidades
 
 ## ⚙️ Como Executar o Projeto?
 
-### ➖ Clonar o Repositório
+###  Clonar o Repositório
 ```bash
 git clone https://github.com/seuusuario/estoque.git
 cd estoque
 ```
 
-### ➖ Compilar e Executar o Programa
+###  Compilar e Executar o Programa
 ```bash
 dotnet run
 ```
